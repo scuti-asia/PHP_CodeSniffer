@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<ruleset name="EcCube">
+    <description>Coding standard based on Zend with some additions.</description>
+
+    <rule ref="EcCube.NamingConventions.ValidFunctionName"/>
+    <rule ref="EcCube.NamingConventions.UpperCaseConstantName"/>
+
+</ruleset>
